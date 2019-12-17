@@ -1,0 +1,118 @@
+﻿  Animation.cpp
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\animation.cpp(14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\animation.cpp(15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\animation.cpp(25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\animation.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Collider.cpp
+  Enemy.cpp
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\enemy.cpp(918): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Ground.cpp
+  Interface.cpp
+  Main.cpp
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(124): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(127): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(183): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(292): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(325): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(326): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(327): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(428): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(446): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(449): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(465): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(484): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(517): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(518): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(591): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(609): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(612): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(628): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(647): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(667): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(683): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(694): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(699): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(825): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(843): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(849): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(915): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(921): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(989): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1006): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1008): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1035): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1062): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1089): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1156): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1251): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1257): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1264): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1284): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1331): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1332): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1333): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1380): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1381): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1382): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1383): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1384): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1390): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1391): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1392): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1393): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1394): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1398): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1683): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1700): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1702): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1729): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1756): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1783): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1814): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1872): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(1878): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2008): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2022): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2053): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2076): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2099): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2107): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2111): warning C4244: 'argument': conversion from 'uint16_t' to 'sf::Uint8', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2126): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2143): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2199): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2206): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2413): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2414): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2727): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2852): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2854): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2873): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2955): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2957): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(2976): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(3036): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(3038): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(3058): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(3172): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(3174): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(3226): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(3306): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(3350): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\main.cpp(3364): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Particle.cpp
+  Player.cpp
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(383): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(384): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(385): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(386): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(390): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(391): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(392): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(393): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(397): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(398): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.7 release\soul eater v1.7 release\player.cpp(400): warning C4305: '=': truncation from 'double' to 'float'
+  Weapon.cpp
+  Generating Code...
+  Soul Eater v1.7 release.vcxproj -> D:\work\Projects\Soul Eater v1.7 release\Debug\Soul Eater v1.7 release.exe
