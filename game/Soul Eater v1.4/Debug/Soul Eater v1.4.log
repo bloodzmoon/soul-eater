@@ -1,0 +1,17 @@
+﻿  Enemy.cpp
+  Main.cpp
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(281): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(296): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(311): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(440): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(472): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(490): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(499): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(512): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(521): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(647): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(648): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(705): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\work\projects\soul eater v1.4\soul eater v1.4\main.cpp(956): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Soul Eater v1.4.vcxproj -> D:\work\Projects\Soul Eater v1.4\Debug\Soul Eater v1.4.exe
