@@ -1,6 +1,0 @@
-﻿  Animation.cpp
-d:\work\projects\soul eater v1.0\soul eater v1.0\animation.cpp(13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-d:\work\projects\soul eater v1.0\soul eater v1.0\animation.cpp(14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-d:\work\projects\soul eater v1.0\soul eater v1.0\animation.cpp(25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-d:\work\projects\soul eater v1.0\soul eater v1.0\animation.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  Soul Eater v1.0.vcxproj -> D:\work\Projects\Soul Eater v1.0\Debug\Soul Eater v1.0.exe

@@ -1,0 +1,9 @@
+﻿  Main.cpp
+d:\work\projects\soul eater v1.1\soul eater v1.1\main.cpp(31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\work\projects\soul eater v1.1\soul eater v1.1\main.cpp(128): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.1\soul eater v1.1\main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.1\soul eater v1.1\main.cpp(174): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.1\soul eater v1.1\main.cpp(207): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.1\soul eater v1.1\main.cpp(215): warning C4018: '<': signed/unsigned mismatch
+d:\work\projects\soul eater v1.1\soul eater v1.1\main.cpp(221): warning C4018: '<': signed/unsigned mismatch
+  Soul Eater v1.1.vcxproj -> D:\work\Projects\Soul Eater v1.1\Debug\Soul Eater v1.1.exe
