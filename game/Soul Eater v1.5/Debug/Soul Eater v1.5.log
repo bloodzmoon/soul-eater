@@ -1,2 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(676,5): error MSB6006: "link.exe" exited with code 1318.
-D:\work\Projects\Soul Eater v1.5\Debug\Soul Eater v1.5.pdb : fatal error LNK1318: Unexpected PDB error; FILE_SYSTEM (3) 'D:\work\Projects\Soul Eater v1.5\Debug\Soul Eater v1.5.pdb'

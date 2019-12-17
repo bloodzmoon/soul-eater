@@ -1,0 +1,5 @@
+unlockedSoul:
+HP:
+redHP:
+stage:
+charactor:
